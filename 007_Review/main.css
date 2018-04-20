@@ -1,0 +1,21 @@
+div{
+    width: 400px;
+    height: 400px;
+    border: 1px solid red;
+    border-radius: 100%;
+    background-image: url("dog.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img{
+    border: 30px  greenyellow solid ;
+}
+.dogone{
+    border: 30px dashed greenyellow;
+}
+.dogtwo{
+    border: 30px double greenyellow;
+}
+.dogthree{
+    border: 30px hidden greenyellow;
+}
